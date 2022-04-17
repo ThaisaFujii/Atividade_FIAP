@@ -1,4 +1,4 @@
-rom random import randint
+from random import randint
 
 class servicoHumanitario:
     def __init__(self):
